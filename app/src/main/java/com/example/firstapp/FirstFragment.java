@@ -57,7 +57,7 @@ public class FirstFragment extends Fragment {
         view.findViewById(R.id.button_toast).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Toast myToast = Toast.makeText(getActivity(), "Hello toast!", Toast.LENGTH_SHORT);
+                Toast myToast = Toast.makeText(getActivity(), "Click the 'add cup' button to increment your water intake count for today", Toast.LENGTH_SHORT);
                 myToast.show();
             }
         });

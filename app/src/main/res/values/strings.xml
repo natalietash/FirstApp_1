@@ -7,10 +7,8 @@
     <string name="random_button_text">Random</string>
     <string name="previous">Previous</string>
 
-    <string name="lorem_ipsum">
-        0
-    </string>
-    <string name="button_toast_text">Toast</string>
-    <string name="button_count">Count</string>
+    <string name="watercount_text">0</string>
+    <string name="button_toast_text">Help</string>
+    <string name="button_count">Add Cup</string>
     <string name="hello_second_fragment">Here is a random number between 0 and %d</string>
 </resources>
